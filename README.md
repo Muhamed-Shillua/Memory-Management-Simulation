@@ -12,7 +12,7 @@ Each technique is implemented in its own folder with a detailed `README.md`.
 
 ## Project Structure
 
-01. [01-Main](./Main/README.md)
+01. [Main](./01-Main/README.md)
 
 02. [02-MemoryPool](./MemoryPool/README.md)
 
