@@ -14,13 +14,13 @@ Each technique is implemented in its own folder with a detailed `README.md`.
 
 01. [Main](./01-Main/README.md)
 
-02. [02-MemoryPool](./MemoryPool/README.md)
+02. [MemoryPool](./02-MemoryPool/README.md)
 
-03. [03-MemoryBlockAllocation](./MemoryBlockAllocation/README.md)
+03. [MemoryBlockAllocation](./03-MemoryBlockAllocation/README.md)
 
-04. [04-ReferenceCounting](./ReferenceCounting/README.md)
+04. [ReferenceCounting](./04-ReferenceCounting/README.md)
  
-05. [05-MultithreadedMemoryAllocation](./MultithreadedMemoryAllocation/README.md)
+05. [MultithreadedMemoryAllocation](./05-MultithreadedMemoryAllocation/README.md)
   
 ## How to Run
 
