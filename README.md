@@ -21,7 +21,9 @@ Each technique is implemented in its own folder with a detailed `README.md`.
 04. [ReferenceCounting](./04-ReferenceCounting/README.md)
  
 05. [MultithreadedMemoryAllocation](./05-MultithreadedMemoryAllocation/README.md)
-  
+
+06.  [LearningRoadmap](./HowTo/LearningRoadmap.pdf)
+
 ## How to Run
 
 1. Clone the repository:
