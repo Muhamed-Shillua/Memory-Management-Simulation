@@ -12,15 +12,15 @@ Each technique is implemented in its own folder with a detailed `README.md`.
 
 ## Project Structure
 
-01. [Main](./Main/README.md)
+01. [01-Main](./Main/README.md)
 
-02. [MemoryPool](./MemoryPool/README.md)
+02. [02-MemoryPool](./MemoryPool/README.md)
 
-03. [MemoryBlockAllocation](./MemoryBlockAllocation/README.md)
+03. [03-MemoryBlockAllocation](./MemoryBlockAllocation/README.md)
 
-04. [ReferenceCounting](./ReferenceCounting/README.md)
+04. [04-ReferenceCounting](./ReferenceCounting/README.md)
  
-05. [MultithreadedMemoryAllocation](./MultithreadedMemoryAllocation/README.md)
+05. [05-MultithreadedMemoryAllocation](./MultithreadedMemoryAllocation/README.md)
   
 ## How to Run
 
